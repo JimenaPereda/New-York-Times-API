@@ -1,0 +1,102 @@
+body{
+    background: url(https://media.giphy.com/media/Cv7wrQjYcd6hO/giphy.gif)no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+#head.jumbotron.jumbotron-fluid{
+    width: 1195px;
+    margin-left: 35px;
+    margin-right: 30px;
+    margin-top: 40px;
+    margin-bottom: 50px;
+    background-color: rgb(245, 127, 190);
+    border: rgb(116, 113, 113);
+    border-width: 5px;
+    border-style: solid;
+    
+}
+#newsp{
+ text-align: center;
+ font-family: 'Quicksand', sans-serif;
+ color: white;
+}
+.card{
+    width: 1195px;
+    margin-left: 35px;
+    margin-right: 30px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    border: gray;
+    border-style: solid;
+}
+#SeaPar{
+    display: block;
+    width: 1150px;
+    height: 40px;
+    margin-right: 200px;
+    font-size: 20px;
+    background-color: rgb(255, 200, 230);
+    color: gray;
+    margin-top: 2px;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: lighter;
+    padding: 8px 0;
+    position: relative;
+    border-color: gray;
+    border-style: solid;
+}
+p{
+   margin-top: 15px;
+   margin-bottom: 1px;
+   font-family: 'Quicksand', sans-serif;
+   color: rgb(75, 73, 73);
+}
+
+#scBtn{
+    margin-top: 30px;
+    
+}
+
+#searchBtn{
+  background-color: rgb(240, 204, 223);
+  color: gray;
+  border: gray;
+  border-style: solid;
+}
+#clearBtn{
+    background-color: rgb(240, 204, 223);
+    color: gray;
+    border: gray;
+    border-style: solid;
+
+}
+.card{
+    width: 1195px;
+    height: 500px;
+    margin-left: 35px;
+    margin-right: 30px;
+    margin-top: 40px;
+    margin-bottom: 50px;
+    
+}
+#topA{
+    width: 1150px;
+    margin-right: 200px;
+    font-size: 20px;
+    background-color: rgb(240, 204, 223);
+    color: gray;
+}
+
+footer{
+    
+    font-size: 20px;
+    background-color: rgb(255, 200, 230);
+    color: gray; font-family: 'Quicksand', sans-serif;
+    font-weight: lighter;
+    border-color: gray;
+    border-style: solid;
+    text-align: center;
+    
+}
